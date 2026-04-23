@@ -66,5 +66,3 @@ We apply a subject-level three-way split. The model is selected based on positiv
 ## Reproducibility
 
 Run all cells in `sag_fusion_main.ipynb` in order to fully reproduce the training and evaluation pipeline.
-
----
