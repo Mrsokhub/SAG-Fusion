@@ -1,7 +1,5 @@
 # SAG-Fusion: Statistically Aligned Gated Fusion for Subject-Level Depression Detection
 
-> Paper: *SAG-Fusion: Statistically Aligned Gated Fusion for Subject-Level Depression Detection* [link to be added]
-
 ## Overview
 
 SAG-Fusion is a lightweight multimodal fusion framework for subject-level depression detection.
