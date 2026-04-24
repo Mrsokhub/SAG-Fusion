@@ -15,7 +15,27 @@ Experiments on EATD-Corpus demonstrate competitive performance without relying o
 |---|---|
 | `sag_fusion_main.ipynb` | Full pipeline: data loading, text encoding, audio encoding, model training, val evaluation, and checkpoint saving |
 
-Run all cells in order. Modify `DATA_ROOT` and `LEXICON_ROOT` at the top of **Cell 1** to your local paths before running.
+Run all cells in order. Modify `DATA_ROOT` and `LEXICON_ROOT` at the top of Cell 1 to your local paths before running.
+
+## Environment
+
+```
+Python >= 3.9
+torch >= 1.13
+librosa
+jieba
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+```
+
+Install dependencies:
+
+```bash
+pip install torch librosa jieba pandas numpy scikit-learn seaborn matplotlib
+```
 
 ## Dataset: EATD-Corpus
 
